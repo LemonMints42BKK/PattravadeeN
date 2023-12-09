@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Pattravadee N.
-#### I am Font-End Developer.
-![I am Font-End Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Pattravadee N. ###
+#### Become a FULL-STACK Developer ####
+![I am Font-End Developer.](https://pat42bkk.s3.ap-northeast-1.amazonaws.com/profile/42profile_head.jpeg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
